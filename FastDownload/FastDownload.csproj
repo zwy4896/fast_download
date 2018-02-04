@@ -88,8 +88,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\FastDownload\locations\Locations.csproj">
-      <Project>{f7048ded-95e9-416c-be6c-da479e488f33}</Project>
+    <ProjectReference Include="..\locations\Locations.csproj">
+      <Project>{0898390d-1fa5-4a34-ae26-c29701c6683d}</Project>
       <Name>Locations</Name>
     </ProjectReference>
   </ItemGroup>
